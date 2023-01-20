@@ -26,13 +26,13 @@ body{
     margin-bottom: 50px;
 }
 
-.title-1, .title-2{
+.title__1, .title__2{
     color: hsl(234, 12%, 34%);
     font-weight: 200;
     font-size: 24px;
 }
 
-.title-2{
+.title__2{
     font-weight: 600;
     margin-bottom: 15px;
 }
@@ -92,7 +92,7 @@ body{
     .container{
         width: 75%;
     }
-    .title-1, .title-2{
+    .title__1, .title__2{
         font-size: 36px;
     }
     .title__p{
